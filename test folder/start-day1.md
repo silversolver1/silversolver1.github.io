@@ -1,6 +1,3 @@
-image linking still doesn't work
-
-
 i have not uploaded full day one notes yet 
 
 in total, i opened android studio, learned how to turn the background on or off, learned how to show code/split/design.
