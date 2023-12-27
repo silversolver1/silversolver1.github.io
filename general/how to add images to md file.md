@@ -5,7 +5,9 @@ click
 
 image
 
-drag it in, commit
+drag it in, preview, commit
+
+image image
 
 
 
