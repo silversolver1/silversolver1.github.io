@@ -1,8 +1,5 @@
-![test1](https://silversolver1.github.io/images/day%201/day1-background%20check-1.PNG)
+image linking still doesn't work
 
-![test2](https://silversolver1.github.io/images/day%201/day1-background%20check-1.PNG?raw=true)
-
-test
 
 i have not uploaded full day one notes yet 
 
